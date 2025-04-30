@@ -5,7 +5,7 @@ A Python module to detect and crop signatures from images using a YOLOv8 model f
 
 Created by **Aayush Kumawat** and **Saransh Saini**, undergraduate students at **IIT Madras** in the **BS Data Science and Applications** program.
 
----
+---   
 
 ## 📸 Overview
 
