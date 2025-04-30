@@ -67,8 +67,9 @@ cropper.sign_detect("input_images", "output_crops")
 - Cropped images will be saved as ```crop_<original_filename>.jpg``` in the output folder
 
 ### 🤝 Authors
-Saransh Saini – [https://www.linkedin.com/in/saranshsaini48/](https://www.linkedin.com/in/saranshsaini48/)
 Aayush Kumawat – [https://www.linkedin.com/in/aayush-kumawat-1a1641277/](https://www.linkedin.com/in/aayush-kumawat-1a1641277/)
+Saransh Saini – [https://www.linkedin.com/in/saranshsaini48/](https://www.linkedin.com/in/saranshsaini48/)
+
 
 ### 📜 License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
